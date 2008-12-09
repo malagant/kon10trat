@@ -1,0 +1,15 @@
+== Welcome to kon10trat
+
+kon10trat is a web appplication that allows you to configure a rails application to be then generated
+and downloaded preconfigured with all the needed plugins etc.
+
+== Getting Started
+
+1. Register and Login to www.kon10trat.de.
+2. Choose create new rails application.
+3. Add plugins, gems, and git options.
+4. Click generate application and download the generated app.
+
+== IMPORTANT: This app is currently under development and is not functioning right now.
+
+Please wait for an official release announcement.
